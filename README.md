@@ -27,7 +27,7 @@ I’m here to help you succeed.
 ## 🔧 Skills & Technologies:
 - **Languages:** Python
 - **Libraries/Frameworks:** pandas, FastAI, PyTorch, TensorFlow
-- **Tools:** Azure, Power BI
+- **Tools:** Azure, Power BI, Kaggle Notebook, Jupyter, Spyder, Anaconda
 - **Other:** Fast Android
 
 ## 📫 Let’s Connect:
