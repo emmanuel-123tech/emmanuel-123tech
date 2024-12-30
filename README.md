@@ -24,11 +24,14 @@ I’m passionate about partnering with businesses, startups, and organizations t
 
 I’m here to help you succeed.
 
-## 🔧 Skills & Technologies:
-- **Languages:** Python
-- **Libraries/Frameworks:** pandas, FastAI, PyTorch, TensorFlow
-- **Tools:** Azure, Power BI, Kaggle Notebook, Jupyter, Spyder, Anaconda
-- **Other:** Fast Android
+## 🔧 Skills:
+- **Data Analysis**
+- **Predictive Modelling**
+- **Story Telling**
+- **Data Visualization**
+- **Natural Language Processing**
+- **Computer Vision**
+- **ML Engineering**
 
 ## 📫 Let’s Connect:
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-ebiendele-063ba0255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
