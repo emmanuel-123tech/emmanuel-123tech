@@ -44,6 +44,9 @@ Feel free to explore my repositories and contribute to any projects that interes
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1F618D?style=for-the-badge&logo=stata&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 <!--
 **emmanuel-123tech/emmanuel-123tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
