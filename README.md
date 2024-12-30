@@ -1,4 +1,4 @@
-![Cover Photo](https://github.com/yourusername/yourrepo/raw/main/path/to/your/image.jpg)
+![Cover Photo](https://github.com/emmanuel-123tech/emmanuel-123tech/blob/main/Screenshot_20241230_164013_LinkedIn.jpg) 
 
 # ✨ Hi, I'm Emmanuel Ebiendele ✨
 
