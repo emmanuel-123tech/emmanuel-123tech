@@ -40,6 +40,14 @@ Feel free to explore my repositories and contribute to any projects that interes
 <!--
 **emmanuel-123tech/emmanuel-123tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+## 💻 Tech Tools
+
+- **Languages and Libraries:**
+  - Python, R
+  - Plotly, Pandas, NumPy, Matplotlib
+  - scikit-learn, fastai
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
