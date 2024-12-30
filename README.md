@@ -39,9 +39,11 @@ Feel free to explore my repositories and contribute to any projects that interes
 ### Tech Tools I Use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1F618D?style=for-the-badge&logo=stata&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 <!--
 **emmanuel-123tech/emmanuel-123tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
