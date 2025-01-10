@@ -2,7 +2,7 @@
 
 # ✨ Hi, I'm Emmanuel Ebiendele ✨
 
-I’m a globally ranked Data Scientist (#3 on Zindi), a seasoned Machine Learning Engineer, and a driven problem solver passionate about delivering data-driven solutions that create tangible business value. With a strong academic foundation in Statistics from the Federal University of Technology Akure and over 36 machine learning awards (including 9 gold, 11 silver, and 16 bronze), I bring excellence, expertise, and innovation to every project.
+I’m a globally ranked Data Scientist (#3 on Zindi), a seasoned Machine Learning Engineer, and a driven problem solver passionate about delivering data-driven solutions that create tangible business value. With a strong academic foundation in Statistics from the Federal University of Technology Akure and over 50 machine learning awards (including 14 gold, 15 silver, and 21 bronze), I bring excellence, expertise, and innovation to every project.
 
 ## 💼 How I Add Value to Businesses and Organizations:
 I specialize in developing predictive models and scalable AI solutions tailored to business needs. Whether it’s improving decision-making, optimizing processes, or driving customer insights, my work consistently delivers measurable outcomes. For example:
