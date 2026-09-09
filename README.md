@@ -17,7 +17,9 @@ My focus today goes beyond training accurate models. I am interested in the comp
 | **AgricFinPal** | AI/data-enabled agriculture finance MVP designed to help farmers build stronger financial profiles while giving lenders better risk insight. **2nd Place, AgricConnectX Summit Hackathon 2025.** | [Repository](https://github.com/emmanuel-123tech/agricfinpal) · [Prototype](https://agricfinpal-nine.vercel.app/) |
 | **2026 FIFA World Cup Prediction** | **4th-place Zindi solution** using leakage-safe historical feature engineering, ensemble regression/classification, GroupKFold validation, and tournament-constrained predictions. | [Repository](https://github.com/emmanuel-123tech/2026-Fifa-World-cup-prediction) |
 | **AfricareAI** | AI-powered Primary Health Care decision-support prototype for Ondo State, combining health-data aggregation, forecasting, risk alerts, and role-based dashboards. | [Repository](https://github.com/emmanuel-123tech/healthai) · [Prototype](https://africareai.vercel.app/) |
-| **AI4D Tanzania Tourism Classification** | Team-led machine learning solution that finished **2nd place**, predicting tourist expenditure classes from survey data. | [Repository](https://github.com/emmanuel-123tech/AI4D-Africa-s-Anglophone-Research-Lab-Tanzania-Tourism-Classification-Challenge) |
+| **AI4D Tanzania Tourism Classification** | Team-led machine learning solution that finished **2nd place**, predicting tourist expenditure classes from survey data using boosting models and stratified validation. | [Repository](https://github.com/emmanuel-123tech/AI4D-Africa-s-Anglophone-Research-Lab-Tanzania-Tourism-Classification-Challenge) |
+| **Makerere Fall Armyworm Detection** | **2nd-place computer vision solution** for identifying fall armyworm infestation from maize-field images. | [Repository](https://github.com/emmanuel-123tech/MakerereFallPrediction) |
+| **Amini GeoFM Crop Classification** | Remote-sensing ML using NDVI, red-edge ratios, temporal statistics, FFT entropy, LightGBM, CatBoost, and stratified cross-validation. | [Repository](https://github.com/emmanuel-123tech/Amini-GeoFM-Decoding-the-Field-Challenge) |
 
 ## Technical Focus
 
