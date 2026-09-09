@@ -1,55 +1,61 @@
-![Cover Photo](https://github.com/emmanuel-123tech/emmanuel-123tech/blob/main/Screenshot_20241230_164013_LinkedIn.jpg) 
+![Cover Photo](https://github.com/emmanuel-123tech/emmanuel-123tech/blob/main/Screenshot_20241230_164013_LinkedIn.jpg)
 
-# ✨ Hi, I'm Emmanuel Ebiendele ✨
+# Emmanuel Ebiendele
 
-I’m a globally ranked Data Scientist (#3 on Zindi), a seasoned Machine Learning Engineer, and a driven problem solver passionate about delivering data-driven solutions that create tangible business value. With a strong academic foundation in Statistics from the Federal University of Technology Akure and over 60 machine learning awards (including 16 gold, 19 silver, and 25 bronze), I bring excellence, expertise, and innovation to every project.
+### AI/ML Engineer & AI Product Builder
 
-## 💼 How I Add Value to Businesses and Organizations:
-I specialize in developing predictive models and scalable AI solutions tailored to business needs. Whether it’s improving decision-making, optimizing processes, or driving customer insights, my work consistently delivers measurable outcomes. For example:
-- Built a kidney renal failure prediction model using ultrasound imagery, addressing healthcare challenges in underserved regions.
-- Collaborated on multiple economic forecasting and financial modeling projects, leveraging data to guide strategic planning.
-- Delivered actionable insights and winning solutions through competitive platforms like Zindi.
+**Career-high #3 global rank on Zindi · 60+ ML competition awards · Zindi Ambassador, Nigeria**
 
-## 📈 What Sets Me Apart:
-- **Proven Results:** With a rich portfolio of high-impact projects, I’ve consistently exceeded expectations, whether working with startups, organizations, or global competitions.
-- **Technical Expertise:** Mastery of tools like FastAI, PyTorch, TensorFlow, and advanced statistical analysis to create tailored solutions.
-- **Global Recognition:** As one of the top 10 data scientists globally on Zindi, I’ve earned the trust of a worldwide community of professionals, peers, and industry leaders.
-- **Leadership & Collaboration:** Serving as the Team Lead of FUTA Lisa Data Science and a Zindi Ambassador for Nigeria, I’m skilled at building and inspiring teams to achieve extraordinary outcomes.
+I build machine learning systems and AI-powered products that turn difficult real-world problems into usable solutions. My background combines **Statistics, competitive machine learning, applied research, and product development**, with work across agriculture, environmental intelligence, healthcare, forecasting, computer vision, and predictive modelling.
 
-## 💡 Let’s Work Together:
-I’m passionate about partnering with businesses, startups, and organizations that want to leverage AI and data science to achieve their goals. Whether you're looking to:
-- Develop a custom AI or machine learning solution,
-- Analyze and interpret complex data for actionable insights, or
-- Build predictive models to drive strategic growth...
+My focus today goes beyond training accurate models. I am interested in the complete AI engineering lifecycle: **problem framing → data/EDA → feature engineering → modelling → validation → application integration → deployment**.
 
-I’m here to help you succeed.
+## Selected Work
 
-## 🔧 Skills:
-- **Data Analysis, Web Data Scraping**
-- **Predictive Modelling**
-- **Story Telling**
-- **Data Visualization**
-- **Natural Language Processing, Large Language Model**
-- **Computer Vision / Deep Learning**
+| Project | What I built / achieved | Links |
+|---|---|---|
+| **AgricFinPal** | AI/data-enabled agriculture finance MVP designed to help farmers build stronger financial profiles while giving lenders better risk insight. **2nd Place, AgricConnectX Summit Hackathon 2025.** | [Repository](https://github.com/emmanuel-123tech/agricfinpal) · [Prototype](https://agricfinpal-nine.vercel.app/) |
+| **2026 FIFA World Cup Prediction** | **4th-place Zindi solution** using leakage-safe historical feature engineering, ensemble regression/classification, GroupKFold validation, and tournament-constrained predictions. | [Repository](https://github.com/emmanuel-123tech/2026-Fifa-World-cup-prediction) |
+| **AfricareAI** | AI-powered Primary Health Care decision-support prototype for Ondo State, combining health-data aggregation, forecasting, risk alerts, and role-based dashboards. | [Repository](https://github.com/emmanuel-123tech/healthai) · [Prototype](https://africareai.vercel.app/) |
+| **AI4D Tanzania Tourism Classification** | Team-led machine learning solution that finished **2nd place**, predicting tourist expenditure classes from survey data. | [Repository](https://github.com/emmanuel-123tech/AI-SQUAD-2ND-PLACE-WINNING-SOLUTION-AI4D-Africa-s-Anglophone-Research-Lab-Tanzania-Tourism-Classific) |
 
-## 📫 Let’s Connect:
-- [LinkedIn](https://www.linkedin.com/in/emmanuel-ebiendele-063ba0255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## Technical Focus
+
+- **Machine Learning:** supervised learning, ensemble methods, predictive modelling, feature engineering, model validation
+- **Deep Learning:** computer vision and image classification
+- **Applied AI:** AI product development, decision-support systems, intelligent workflows
+- **NLP:** natural language processing and LLM-based applications
+- **Environmental & Geospatial ML:** remote sensing, satellite/environmental data, forecasting
+- **Engineering & Deployment:** Python, Scikit-learn, PyTorch, TensorFlow, Next.js, React, TypeScript, Git/GitHub, Vercel
+
+## Competition & Community
+
+- **Career-high #3 globally on Zindi**
+- **60+ machine learning competition awards**, including 16 gold, 19 silver, and 25 bronze
+- **Zindi Ambassador, Nigeria**
+- Data science tutor and mentor with experience supporting **100+ students** in data science and machine learning
+- B.Tech in **Statistics**, Federal University of Technology Akure (FUTA)
+
+## What I Care About
+
+I enjoy working on technically difficult problems where strong modelling must eventually become something useful. That means understanding the data deeply, designing the right validation strategy, building robust models, and taking the solution far enough that people can actually interact with it.
+
+I am particularly interested in **AI Engineering, Machine Learning Engineering, Applied AI Research, AI Products, Computer Vision, NLP, and Environmental Intelligence**.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-ebiendele-063ba0255/)
+- [Zindi](https://zindi.africa/users/Ebiendele)
 - Email: [emmanuelebiendele@yahoo.com](mailto:emmanuelebiendele@yahoo.com)
 
-Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!
+---
 
-### Tech Tools I Use:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1F618D?style=for-the-badge&logo=stata&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+### Core Tools
 
-<!--
-**emmanuel-123tech/emmanuel-123tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
