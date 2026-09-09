@@ -1,46 +1,60 @@
-![Cover Photo](https://github.com/emmanuel-123tech/emmanuel-123tech/blob/main/Screenshot_20241230_164013_LinkedIn.jpg)
+<h1 align="center">Emmanuel Ebiendele</h1>
+<p align="center"><strong>AI/ML Engineer & AI Product Builder</strong></p>
+<p align="center">Career-high #3 global rank on Zindi · 60+ ML competition awards · Zindi Ambassador, Nigeria</p>
 
-# Emmanuel Ebiendele
+I build machine learning systems and AI-powered products that turn difficult real-world problems into usable solutions. My background combines **Statistics, competitive machine learning, applied research, and product development**, with work across agriculture, healthcare, environmental intelligence, forecasting, computer vision, and predictive modelling.
 
-### AI/ML Engineer & AI Product Builder
+My current focus is the full AI engineering lifecycle: **problem framing → data/EDA → feature engineering → modelling → validation → application integration → deployment**.
 
-**Career-high #3 global rank on Zindi · 60+ ML competition awards · Zindi Ambassador, Nigeria**
+## Featured Projects
 
-I build machine learning systems and AI-powered products that turn difficult real-world problems into usable solutions. My background combines **Statistics, competitive machine learning, applied research, and product development**, with work across agriculture, environmental intelligence, healthcare, forecasting, computer vision, and predictive modelling.
-
-My focus today goes beyond training accurate models. I am interested in the complete AI engineering lifecycle: **problem framing → data/EDA → feature engineering → modelling → validation → application integration → deployment**.
-
-## Selected Work
-
-| Project | What I built / achieved | Links |
-|---|---|---|
-| **AgricFinPal** | AI/data-enabled agriculture finance MVP designed to help farmers build stronger financial profiles while giving lenders better risk insight. **2nd Place, AgricConnectX Summit Hackathon 2025.** | [Repository](https://github.com/emmanuel-123tech/agricfinpal) · [Prototype](https://agricfinpal-nine.vercel.app/) |
-| **2026 FIFA World Cup Prediction** | **4th-place Zindi solution** using leakage-safe historical feature engineering, ensemble regression/classification, GroupKFold validation, and tournament-constrained predictions. | [Repository](https://github.com/emmanuel-123tech/2026-Fifa-World-cup-prediction) |
-| **AfricareAI** | AI-powered Primary Health Care decision-support prototype for Ondo State, combining health-data aggregation, forecasting, risk alerts, and role-based dashboards. | [Repository](https://github.com/emmanuel-123tech/healthai) · [Prototype](https://africareai.vercel.app/) |
-| **AI4D Tanzania Tourism Classification** | Team-led machine learning solution that finished **2nd place**, predicting tourist expenditure classes from survey data using boosting models and stratified validation. | [Repository](https://github.com/emmanuel-123tech/AI4D-Africa-s-Anglophone-Research-Lab-Tanzania-Tourism-Classification-Challenge) |
-| **Makerere Fall Armyworm Detection** | **2nd-place computer vision solution** for identifying fall armyworm infestation from maize-field images. | [Repository](https://github.com/emmanuel-123tech/MakerereFallPrediction) |
-| **Amini GeoFM Crop Classification** | Remote-sensing ML using NDVI, red-edge ratios, temporal statistics, FFT entropy, LightGBM, CatBoost, and stratified cross-validation. | [Repository](https://github.com/emmanuel-123tech/Amini-GeoFM-Decoding-the-Field-Challenge) |
+| Project | What it demonstrates |
+|---|---|
+| **[AgricFinPal](https://github.com/emmanuel-123tech/agricfinpal)** | Agritech + fintech MVP for farmer financial visibility and lender decision support. **2nd Place, AgricConnectX Summit Hackathon 2025.** [Live prototype](https://agricfinpal-nine.vercel.app/) |
+| **[2026 FIFA World Cup Prediction](https://github.com/emmanuel-123tech/2026-Fifa-World-cup-prediction)** | **4th-place Zindi solution** using leakage-safe feature engineering, GroupKFold validation, ensemble regression/classification, and tournament constraints. |
+| **[AfricareAI](https://github.com/emmanuel-123tech/healthai)** | AI-powered Primary Health Care decision-support prototype for facility, LGA, and state-level users. [Live prototype](https://africareai.vercel.app/) |
+| **[Amini GeoFM: Decoding the Field](https://github.com/emmanuel-123tech/Amini-GeoFM-Decoding-the-Field-Challenge)** | Remote-sensing crop classification using spectral indices, temporal statistics, LightGBM, CatBoost, and probabilistic validation. |
+| **[Makerere Fall Armyworm Prediction](https://github.com/emmanuel-123tech/MakerereFallPrediction)** | **2nd-place computer vision solution** for detecting fall armyworm infestation from maize-field images. |
+| **[IndabaX Nigeria 2023](https://github.com/emmanuel-123tech/IndabaX-Nigeria2023)** | **1st-place fraud-detection solution** using electricity and gas consumption data. |
 
 ## Technical Focus
 
-- **Machine Learning:** supervised learning, ensemble methods, predictive modelling, feature engineering, model validation
+- **Machine Learning:** supervised learning, ensemble methods, predictive modelling, feature engineering, validation
 - **Deep Learning:** computer vision and image classification
-- **Applied AI:** AI product development, decision-support systems, intelligent workflows
+- **Applied AI:** AI product development, intelligent workflows, decision-support systems
 - **NLP:** natural language processing and LLM-based applications
 - **Environmental & Geospatial ML:** remote sensing, satellite/environmental data, forecasting
 - **Engineering & Deployment:** Python, Scikit-learn, PyTorch, TensorFlow, Next.js, React, TypeScript, Git/GitHub, Vercel
 
+### Core Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ## Competition & Community
 
 - **Career-high #3 globally on Zindi**
-- **60+ machine learning competition awards**, including 16 gold, 19 silver, and 25 bronze
+- **60+ machine learning competition awards**
 - **Zindi Ambassador, Nigeria**
-- Data science tutor and mentor with experience supporting **100+ students** in data science and machine learning
+- Data science tutor and mentor with experience supporting **100+ students**
 - B.Tech in **Statistics**, Federal University of Technology Akure (FUTA)
+- Back-to-back IndabaX Nigeria podium finishes: **1st Place (2023)** and **2nd Place (2024)**
 
-## What I Care About
+## Research
 
-I enjoy working on technically difficult problems where strong modelling must eventually become something useful. That means understanding the data deeply, designing the right validation strategy, building robust models, and taking the solution far enough that people can actually interact with it.
+**The Benefit of Artificial Intelligence (AI) on Operational Efficiency in Hotel Management: A Case of Selected Hotels South West Nigeria**  
+Asian Journal of Research in Computer Science, 2025.  
+[Read the paper](https://www.journalajrcos.com/index.php/AJRCOS/article/view/698) · DOI: `10.9734/ajrcos/2025/v18i6698`
+
+## What I’m Building Toward
+
+I want my work to show more than strong model scores. The goal is to take difficult problems from **raw data to reliable models to usable AI systems** — with clear validation, reproducible workflows, and products people can actually interact with.
 
 I am particularly interested in **AI Engineering, Machine Learning Engineering, Applied AI Research, AI Products, Computer Vision, NLP, and Environmental Intelligence**.
 
@@ -49,15 +63,3 @@ I am particularly interested in **AI Engineering, Machine Learning Engineering, 
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-ebiendele-063ba0255/)
 - [Zindi](https://zindi.africa/users/Ebiendele)
 - Email: [emmanuelebiendele@yahoo.com](mailto:emmanuelebiendele@yahoo.com)
-
----
-
-### Core Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
